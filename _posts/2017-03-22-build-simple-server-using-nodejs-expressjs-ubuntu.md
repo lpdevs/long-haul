@@ -27,17 +27,16 @@ If you have not installed Nodejs, please install it or check [this](https://lpde
     
   * Create a new file: **index.js**, write the code like below:
     * Code:
-    ```js
-    var express = require('express');
+       ```js
+      var express = require('express');
 
-    var app = express();
-    var port = process.env.port || 8080;
+      var app = express();
+      var port = process.env.port || 8080;
 
-    app.listen(port, function(){
-	     console.log('The server is listening on port:' + port);
-    });
-    ```
-    
+      app.listen(port, function(){
+         console.log('The server is listening on port:' + port);
+      });
+      ``` 
     * This code will create a server which is bound with **localhost** in port **8080**.
     
   * Start this server:
@@ -78,7 +77,7 @@ If you have not installed Nodejs, please install it or check [this](https://lpde
       });
       ```
       
-      * Start the server again, then navigate to [http://<your_ip>:8080. 
+    * Start the server again, then navigate to [http://<your_ip>:8080. 
       
  OK, it is just simple way to create a server on Ubuntu using Nodejs and Expressjs. If you want to create more complicated server or have some questions, feel free to ask me. I am really happy to help you.<br />LP Devs.
   
