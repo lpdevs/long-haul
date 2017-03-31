@@ -13,31 +13,39 @@ title: About LP Devs
   My native language is Vietnamese. Therefore, writing a blog using English is quite confusing me. Although, I decide to use English for this blog. I want to share my experiences to all people in the world. So I will try my best and hope my english skills better soon.
   </p>
 
-  <ul>
-  <li>Here are some of all my projects about:</li>
-    <b>Android applications</b><br>
-      <ul>
-      <li><a href='https://play.google.com/store/apps/details?id=com.lampv.calculators'>Smart Calculator Free</a></li>
-      <li><a href='https://play.google.com/store/apps/details?id=com.ss.stp.uninstallrootapps'>Uninstall Root Apps</a></li>
-      <li><a href='https://play.google.com/store/apps/details?id=com.ss.stp.camnangsocuu'>Cam nang so cuu</a></li>
-      <li><a href='https://play.google.com/store/apps/details?id=com.ss.stp.rssnewsreader'>Doc bao nhanh cho nguoi Viet</a></li>
-      </ul>
-    <b>Web applications</b><br>
-      <ul>
-      <li><a href='https://lpdevs.herokuapp.com/dictionary'>Vietnamese Dictionary</a></li>
-      </ul>
-    <br><br>
-  <li>Visit me on:</li>
-    <b>Website:</b><br>
-      <li><a href="https://lpdevs.github.io">LP Devs Blog</a></li>
-      <li><a href="https://lpdevs.herokuapp.com">LP Devs Herokuapp</a></li>
-      <li><a href="https://phamvanlam.com">Pham Van Lam</a> (Vietnamese Only)</li>
-    <b>Youtube:</b><br>
-      <li><a href="https://www.youtube.com/channel/UCGZVdZxSWmAIDT5AJNCQ6Bw">LP Devs Channel</a></li>
-      <li><a href="https://www.youtube.com/channel/UCGzF0dyN9D5nFS4nNpMm6RA">HD Open source</a></li>
-    <b>Facebook:</b><br>
-      <li><a href="https://www.facebook.com/lpdevs">LP Devs Fanpage</a></li>
-  </ul>
+  <b>Here are some of all my projects about:</b><br>
+    <ul>
+      <li>Android applications</li>
+        <ul>
+        <li><a href='https://play.google.com/store/apps/details?id=com.lampv.calculators'>Smart Calculator Free</a></li>
+        <li><a href='https://play.google.com/store/apps/details?id=com.ss.stp.uninstallrootapps'>Uninstall Root Apps</a></li>
+        <li><a href='https://play.google.com/store/apps/details?id=com.ss.stp.camnangsocuu'>Cam nang so cuu</a></li>
+        <li><a href='https://play.google.com/store/apps/details?id=com.ss.stp.rssnewsreader'>Doc bao nhanh cho nguoi Viet</a></li>
+        </ul>
+      <li>Web applications</li>
+        <ul>
+        <li><a href='https://lpdevs.herokuapp.com/dictionary'>Vietnamese Dictionary</a></li>
+        </ul>
+    </ul>
+  
+  <b>Visit me on:</b><br>
+    <ul>
+      <li>Website:</li>
+        <ul>
+        <li><a href="https://lpdevs.github.io">LP Devs Blog</a></li>
+        <li><a href="https://lpdevs.herokuapp.com">LP Devs Herokuapp</a></li>
+        <li><a href="https://phamvanlam.com">Pham Van Lam</a> (Vietnamese Only)</li>
+        </ul>
+      <li>Youtube:</li>
+        <ul>
+        <li><a href="https://www.youtube.com/channel/UCGZVdZxSWmAIDT5AJNCQ6Bw">LP Devs Channel</a></li>
+        <li><a href="https://www.youtube.com/channel/UCGzF0dyN9D5nFS4nNpMm6RA">HD Open source</a></li>
+        </ul>
+      <li>Facebook:</li>
+        <ul>
+        <li><a href="https://www.facebook.com/lpdevs">LP Devs Fanpage</a></li>
+        </ul>
+    </ul>
 
   <p>
   I am going to update this blog more and more. So if you have some questions to ask me, or some ideas to share, feel free to email me.<br>
