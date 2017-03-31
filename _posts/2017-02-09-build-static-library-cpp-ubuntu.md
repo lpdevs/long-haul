@@ -28,14 +28,6 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
  
   * lib.h
    
-
-    ```cpp
-    #ifndef _LIB_H_
-    #define _LIB_H_
-      void sayHi();
-    #endif
-    ```
-   
   * lib.cc
  
     
