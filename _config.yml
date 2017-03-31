@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: LP Devs Github.io
+description: Sharing experiences about programming.
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://lpdevs.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,9 +20,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
+   github: lpdevs
    twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   facebook: lpdevs
+   email: lampv606@gmail.com
 
 google_analytics: "UA-58263416-1"
