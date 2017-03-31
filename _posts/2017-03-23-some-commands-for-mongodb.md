@@ -60,6 +60,8 @@ tags: [commands]
 	```
   
   * Query document from MongoDB collection:
+
+  	* **find**:
     ```
 	db.COLLECTION_NAME.find()
 	```
@@ -75,6 +77,8 @@ tags: [commands]
 	```
 	
   * Remove document:
+    
+  	* **remove**:
     ```
 	db.COLLECTION_NAME.remove(DELLETION_CRITTERIA)
 	```

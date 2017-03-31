@@ -10,7 +10,6 @@ Today, I am going to talk about how to build a simple http server in ubuntu usin
 If you have not installed Nodejs, please install it or check [this](https://lpdevs.github.io/nodejs/ubuntu/elementary%20os/2017/03/14/installing-nodejs-and-npm-in-linux-from-binaries.html). By now, I am assumming that you have installed Nodejs. Let's start now:
   
   * Create new project:
-
     * Run:
     ```js
     npm init
@@ -19,7 +18,6 @@ If you have not installed Nodejs, please install it or check [this](https://lpde
     * Then just hit Enter...After that **package.json** file is generated. (Notice: Name can no longer contain capital letters).
 
   * Install **express** module: open Terminal:
-
     * Run:
     ```js
     npm install --save express
@@ -28,7 +26,6 @@ If you have not installed Nodejs, please install it or check [this](https://lpde
     * Using **--save** to save it as a dependency in the **package.json** file. Then **node_modules** is generated.
     
   * Create a new file: **index.js**, write the code like below:
-    
     * Code:
     ```js
     var express = require('express');
@@ -44,19 +41,16 @@ If you have not installed Nodejs, please install it or check [this](https://lpde
     * This code will create a server which is bound with **localhost** in port **8080**.
     
   * Start this server:
-
     * Run:
     ```js
     node index.js
     ```
     
     * If the console displays log as **The server is listening on port: 8080**, then the server is started successfully.
-    
     * Then navigate to [http://localhost:8080](http://localhost:8080). For now, you will receive an error, which is **Cannot GET /**.
     It is because we are never implementing routing for the server.
     
   * Routing by adding the below in **index.js**:
-    
     * Adding:
     ```js
     app.get('/', function(req, res){
@@ -67,7 +61,6 @@ If you have not installed Nodejs, please install it or check [this](https://lpde
     * That means when you navigate to the [http://localhost:8080](http://localhost:8080), you requested to get '/'. Then the server
       responses by sending **Hello from main page** to your browser. So starting the server again, then navigate to [http://localhost:8080](http://localhost:8080).
       You will receive that message.
-    
     * For now, you just can access the server from your computer. Because the server is bound with **localhost**. If you want to access the server from other computers in the same network. You must bind it with your **ip address**. So **index.js** must be modified like below:
       ```js
       var express = require('express');
