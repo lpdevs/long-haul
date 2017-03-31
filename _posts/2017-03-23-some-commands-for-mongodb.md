@@ -53,7 +53,6 @@ tags: [commands]
     ```
 	db.COLLECTION_NAME.insert(document)
 	```
-	
 	or:
 	```
 	db.COLLECTION_NAME.save(document)
@@ -63,7 +62,6 @@ tags: [commands]
     ```
 	db.COLLECTION_NAME.find()
 	```
-	
 	or:
 	```
 	db.COLLECTION_NAME.find().pretty()
@@ -78,12 +76,10 @@ tags: [commands]
     ```
 	db.COLLECTION_NAME.remove(DELLETION_CRITTERIA)
 	```
-	
 	or to remove one document:
 	```
 	db.COLLECTION_NAME.remove(DELLETION_CRITTERIA, 1)
 	```
-	
 	or to remove all document:
 	```
 	db.COLLECTION_NAME.remove()
@@ -99,8 +95,8 @@ tags: [commands]
 	db.COLLECTION_NAME.find().sort({KEY:1})
 	```
 	
-	KEY : 1  -> ascending order
-	KEY : -1 -> descending order
+	  * KEY : 1  -> ascending order
+	  * KEY : -1 -> descending order
 	
   * Indexing:
     ```

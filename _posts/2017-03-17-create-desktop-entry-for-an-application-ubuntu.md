@@ -19,6 +19,7 @@ So today, I want to share with you how I create an desktop entry for an applicat
   
 ### Step 2: Write below:
   
+  * Content:
   ```
   [Desktop Entry]
   Version=2.3
@@ -34,6 +35,7 @@ So today, I want to share with you how I create an desktop entry for an applicat
   * /home/lampv/Documents/android-studio/bin/studio.png : path for the icon
   * /home/lampv/Documents/android-studio/bin/studio.sh : path for the script to execute the application.
   * ...
+  
   For now, everything is alright.
 
 ### Step 3: (Optional) Set permissions
