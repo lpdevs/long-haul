@@ -13,6 +13,7 @@ title: About LP Devs
   My native language is Vietnamese. Therefore, writing a blog using English is quite confusing me. Although, I decide to use English for this blog. I want to share my experiences to all people in the world. So I will try my best and hope my english skills better soon.
   </p>
 
+  <p>
   <b>Here are some of all my projects about:</b><br>
     <ul>
       <li>Android applications</li>
@@ -27,7 +28,9 @@ title: About LP Devs
         <li><a href='https://lpdevs.herokuapp.com/dictionary'>Vietnamese Dictionary</a></li>
         </ul>
     </ul>
-  
+  </p>
+
+  <p>
   <b>Visit me on:</b><br>
     <ul>
       <li>Website:</li>
@@ -46,7 +49,8 @@ title: About LP Devs
         <li><a href="https://www.facebook.com/lpdevs">LP Devs Fanpage</a></li>
         </ul>
     </ul>
-
+  </p>
+  
   <p>
   I am going to update this blog more and more. So if you have some questions to ask me, or some ideas to share, feel free to email me.<br>
   Email: <a href="mailto:lampv606@gmail.com">lampv606@gmail.com</a>
