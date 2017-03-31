@@ -107,5 +107,4 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
 
   * result should be: Hello from static library
 
-Thanks for reading. If you have some questions, feel free to ask me. 
-LP Devs
+Thanks for reading. If you have some questions, feel free to ask me. <br/>LP Devs
