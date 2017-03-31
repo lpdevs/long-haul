@@ -7,7 +7,6 @@ tags: [commands]
 ---
 
 ### MongoDB Commands
-
   * Create or switch to a database:
 	```
 	use DATABASE_NAME
@@ -50,10 +49,12 @@ tags: [commands]
 	```
 	
   * Insert document
+    * Using **insert**:
     ```
 	db.COLLECTION_NAME.insert(document)
 	```
-	or:
+	
+	* Using **save**:
 	```
 	db.COLLECTION_NAME.save(document)
 	```
@@ -62,7 +63,8 @@ tags: [commands]
     ```
 	db.COLLECTION_NAME.find()
 	```
-	or:
+
+	* Using **pretty**:
 	```
 	db.COLLECTION_NAME.find().pretty()
 	```
@@ -76,11 +78,13 @@ tags: [commands]
     ```
 	db.COLLECTION_NAME.remove(DELLETION_CRITTERIA)
 	```
-	or to remove one document:
+	
+	* Or to remove one document:
 	```
 	db.COLLECTION_NAME.remove(DELLETION_CRITTERIA, 1)
 	```
-	or to remove all document:
+	
+	* Or to remove all document:
 	```
 	db.COLLECTION_NAME.remove()
 	```
