@@ -7,13 +7,16 @@ tags: [static-library, make]
 ---
 
 Library is very important when you build some kind of big systems. Some advantages of library are:
+  
   * You have to write less code
   * Easy to fix code
   * Easy to share to others
   * ...
+
 In this post, I am going to share one way to build static library in Ubuntu. First of all, you can get source files on [Github](https://github.com/phamvanlam/stack-problems/tree/master/build-static-library-cpp-ubuntu).
 
 ### Structure of project
+  
   * test
     * main.cc
     * Makefile
@@ -22,16 +25,16 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
   * Makefile
 
 ### Detail
-  * lib.h
+  
+  * **lib.h**:
     ```cpp
     #ifndef _LIB_H_
     #define _LIB_H_
       void sayHi();
     #endif
     ```
-  * lib.cc
- 
-    
+  
+  * **lib.cc**:
     ```cpp
     #include "lib.h"
     #include <stdio.h>
@@ -41,9 +44,7 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
     }
     ```
  
-  * Makefile
- 
-   
+  * **Makefile**:
     ```make
     CC = g++
     libmylib.a: lib.o
@@ -61,9 +62,7 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
     * $<: first dependency
     * "ar rcs ..." is to build static library.
    
-  * test/main.cc
- 
-    
+  * **test/main.cc**   
     ```cpp
     #include "../lib.h"
     #include <stdio.h>
@@ -74,9 +73,7 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
     }
     ```
    
-  * test/Makefile
-
-    
+  * **test/Makefile**
     ```make
     TARGET = prog
     CC = g++
@@ -94,10 +91,7 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
 
 ### Building static library
 
-
   * Assuming that you are in **/build-static-library-cpp-ubuntu** directory.
-
-  
     ```
     make
     ```
@@ -105,7 +99,6 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
 ### Testing static library
 
   * Run:
-
     ```
     cd test
     make
@@ -113,5 +106,5 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
     ```
 
   * result should be: Hello from static library
-
+  
 Thanks for reading. If you have some questions, feel free to ask me. 
