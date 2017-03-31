@@ -14,7 +14,7 @@ title: About LP Devs
   </p>
 
 
-  <h5>My android applications:</h5>
+  <h4>My android applications:</h4>
   <ul>
     <li><a href='https://play.google.com/store/apps/details?id=com.lampv.calculators'>Smart Calculator Free</a></li>
     <li><a href='https://play.google.com/store/apps/details?id=com.ss.stp.uninstallrootapps'>Uninstall Root Apps</a></li>
@@ -22,25 +22,25 @@ title: About LP Devs
     <li><a href='https://play.google.com/store/apps/details?id=com.ss.stp.rssnewsreader'>Doc bao nhanh cho nguoi Viet</a></li>
   </ul>
 
-  <h5>My web applications:</h5>
+  <h4>My web applications:</h4>
   <ul>
     <li><a href='https://lpdevs.herokuapp.com/dictionary'>Vietnamese Dictionary</a></li>
   </ul>
 
-  <h5>My websites:</h5>
+  <h4>My websites:</h4>
   <ul>
     <li><a href="https://lpdevs.github.io">LP Devs Blog</a></li>
     <li><a href="https://lpdevs.herokuapp.com">LP Devs Herokuapp</a></li>
     <li><a href="https://phamvanlam.com">Pham Van Lam</a> (Vietnamese Only)</li>
   </ul>
   
-  <h5>My youtube channels:</h5>
+  <hh45>My youtube channels:</h4>
   <ul>
     <li><a href="https://www.youtube.com/channel/UCGZVdZxSWmAIDT5AJNCQ6Bw">LP Devs Channel</a></li>
     <li><a href="https://www.youtube.com/channel/UCGzF0dyN9D5nFS4nNpMm6RA">HD Open source</a></li>
   </ul>
   
-  <h5>My facebook fanpages:</h5>
+  <h4>My facebook fanpages:</h4>
   <ul>
     <li><a href="https://www.facebook.com/lpdevs">LP Devs Fanpage</a></li>
   </ul>
