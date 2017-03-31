@@ -26,7 +26,7 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
  
 ### Detail
  
-  * **lib.h**
+  * lib.h
    
     ```cpp
     #ifndef _LIB_H_
@@ -35,7 +35,7 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
     #endif
     ```
    
-  * **lib.cc**
+  * lib.cc
  
     ```cpp
     #include "lib.h"
@@ -46,7 +46,7 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
     }
     ```
  
-  * **Makefile**
+  * Makefile
  
     ```make
     CC = g++
@@ -65,7 +65,7 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
     * $<: first dependency
     * "ar rcs ..." is to build static library.
    
-  * **test/main.cc**
+  * test/main.cc
  
     ```cpp
     #include "../lib.h"
@@ -77,7 +77,7 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
     }
     ```
    
-  * **test/Makefile**
+  * test/Makefile
 
     ```make
     TARGET = prog
@@ -98,17 +98,17 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
 
 Assuming that you are in **/build-static-library-cpp-ubuntu** directory.
 
-```
-make
-```
+  ```
+  make
+  ```
 
 ### Testing static library
 
-```
-cd test
-make
-./prog
-```
+  ```
+  cd test
+  make
+  ./prog
+  ```
 
   * result should be: Hello from static library
 
