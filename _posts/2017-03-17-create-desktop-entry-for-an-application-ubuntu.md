@@ -10,14 +10,14 @@ I just installed Android Studio 2.3 in my Ubuntu computer. Everything is fine. B
 
 So today, I want to share with you how I create an desktop entry for an application, such as: Android Studio. 
 
-### Step 1: Create file <yourfilename>.desktop (androidstudio.desktop)
+#### Step 1: Create file <yourfilename>.desktop (androidstudio.desktop)
   
   * Run:
   ```
   sudo nano /usr/share/applications/androidstudio.desktop
   ```
   
-### Step 2: Write below:
+#### Step 2: Write below:
   
   * Content:
   ```
@@ -38,7 +38,7 @@ So today, I want to share with you how I create an desktop entry for an applicat
   
   For now, everything is alright.
 
-### Step 3: (Optional) Set permissions
+#### Step 3: (Optional) Set permissions
 
   * Run:
   ```

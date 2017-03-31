@@ -6,7 +6,7 @@ categories: [git, github]
 tags: [commands] 
 ---
 
-### Basic commands
+#### Basic commands
   
   * **Init**: create a new repository
     ```

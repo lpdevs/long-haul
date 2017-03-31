@@ -6,7 +6,7 @@ categories: [MongoDB, RDBMS]
 tags: [Advantages, MongoDB, RDBMS]
 ---
 
-### Overview
+#### Overview
 
   * MongoDB is a cross-platform, document oriented database that provides high performance, high availability, and easy scalability.
   * MongoDB works on concept of collection and document.	
@@ -14,7 +14,7 @@ tags: [Advantages, MongoDB, RDBMS]
 	  * Collection is a group of MongoDB documents. It is the equivalent of an RDBMS table.
     * Document is a set of key-value pairs. It is the equivalent of a row in RDBMS.
 	
-### Advantages of MongoDB over RDBMS
+#### Advantages of MongoDB over RDBMS
 
   * MongoDB is a document database in which one collection holds different documents. Each document has the different number of fields, content and size.
   * Structure of a single object is clear.
