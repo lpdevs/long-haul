@@ -27,7 +27,6 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
 ### Detail
  
   * lib.h
-   
   * lib.cc
  
     
