@@ -5,25 +5,37 @@ title: About LP Devs
 
 <div class="post">
 	<h1 class="pageTitle">About LP Devs</h1>
-  Hi, I am Pham Van Lam (<a href='https://lpdevs.herokuapp.com/'>LP Devs</a>). I come from Viet Nam. I am a <b>developer</b> and a <b>blogger</b>. I create this website to share all my projects to you all.
+  Hi, I am Pham Van Lam (<a href='https://lpdevs.github.io/'>LP Devs</a>). I come from Viet Nam. I am a <b>developer</b> and a <b>blogger</b>. I create this website to share all my projects and all experiences about programming. 
   <br><br>
 
-  When I was learning at Ha Noi University of Science and Technology, my field is Electronic and Telecomunication. But I am passionate about programming. So now, I am working as a software programmer. 
-  I am advanced at C/C++, Java/Android and intermediate at Javascript, Nodejs, ExpressJs. This website is created while I was learning about Nodejs, Expressjs and MongoDB.
+  My native language is Vietnamese. Therefore, writing a blog using English is quite confusing me. Although, I decide to use English for this blog. I want to share my experiences to all people in the world. So I will try my best and hope my english skills better soon.
   <br><br>
 
   Here are some of all my projects about:
 
-  <h4>Android applications</h4>
+  <b>Android applications</b>
     1.<a href='https://play.google.com/store/apps/details?id=com.lampv.calculators'> Smart Calculator Free </a><br>
     2.<a href='https://play.google.com/store/apps/details?id=com.ss.stp.uninstallrootapps'> Uninstall Root Apps </a><br>
     3.<a href='https://play.google.com/store/apps/details?id=com.ss.stp.camnangsocuu'> Cam nang so cuu</a><br>
     4.<a href='https://play.google.com/store/apps/details?id=com.ss.stp.rssnewsreader'> Doc bao nhanh cho nguoi Viet</a><br>
-  <h4>Web applications</h4>
+  <b>Web applications</b>
     1.<a href='https://lpdevs.herokuapp.com/dictionary'> Vietnamese Dictionary</a>
   <br><br>
 
-  I am going to update this website more and more. So if you have some questions to ask me, or some ideas to share, feel free to email me.
+  Visit me on:
+
+  <b>Website:</b>
+    1.<a href="https://lpdevs.github.io"> LP Devs Blog</a><br>
+    2.<a href="https://lpdevs.herokuapp.com"> LP Devs Herokuapp</a><br>
+    3.<a href="https://phamvanlam.com"> Pham Van Lam</a> (Vietnamese Only)<br>
+  <b>Youtube:</b>
+    1.<a href="https://www.youtube.com/channel/UCGZVdZxSWmAIDT5AJNCQ6Bw"> LP Devs Channel </a><br>
+    2.<a href="https://www.youtube.com/channel/UCGzF0dyN9D5nFS4nNpMm6RA"> HD Open source </a><br>
+  <b>Facebook:</b>
+    1.<a href="https://www.facebook.com/lpdevs"> LP Devs Fanpage </a><br>
+
+
+  I am going to update this blog more and more. So if you have some questions to ask me, or some ideas to share, feel free to email me.
   <br><br>
 
   Thank you <br>
