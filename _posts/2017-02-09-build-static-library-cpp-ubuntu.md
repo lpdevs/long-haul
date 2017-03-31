@@ -7,7 +7,6 @@ tags: [static-library, make]
 ---
 
 Library is very important when you build some kind of big systems. Some advantages of library are:
-  
   * You have to write less code
   * Easy to fix code
   * Easy to share to others
@@ -105,6 +104,6 @@ In this post, I am going to share one way to build static library in Ubuntu. Fir
     ./prog
     ```
 
-  * result should be: Hello from static library
+  * Result should be: Hello from static library
 
 Thanks for reading. If you have some questions, feel free to ask me. <br/>LP Devs
