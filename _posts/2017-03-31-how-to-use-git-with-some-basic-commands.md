@@ -14,7 +14,6 @@ tags: [commands]
     ```
   
   * **Clone**: clone a repository
-  
     * Clone a repository in local:
       ```
       git clone /path/to/repository/
@@ -26,7 +25,6 @@ tags: [commands]
       ```
 
   * **Branch**: 
-
     * Check the current branch:
       ```
       git branch
@@ -38,7 +36,6 @@ tags: [commands]
       ```
 
   * **Check out**:
-
     * Check out an existing branch:
       ```
       git checkout <name_branch>
@@ -55,7 +52,6 @@ tags: [commands]
       ```
 
   * **Add**: update a state (add, edit, delete) of files
-
     * Update all:
       ```
       git add .
@@ -78,7 +74,6 @@ tags: [commands]
       ```
 
   * **Push**: Update the modifing of project on server
-
     * The branch exists
       ```
       git push origin <name_branch>

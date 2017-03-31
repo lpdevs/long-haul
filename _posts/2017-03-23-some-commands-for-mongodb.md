@@ -35,16 +35,14 @@ tags: [commands]
 	
 	* name: string
 	* options: Documents
-	  
 	  * capped: Boolean
 	  * autoIndexId: Boolean
 	  * size: number
 	  * max: number
 	  
-	  example: 
-	  
-	    * db.createCollection("myCollection");
-	    * db.createCollection("mycol", { capped : true, autoIndexId : true, size : 6142800, max : 10000 } )
+	* Example: 
+	  * db.createCollection("myCollection");
+	  * db.createCollection("mycol", { capped : true, autoIndexId : true, size : 6142800, max : 10000 } )
 	
   * Show collections:
     ```
@@ -56,8 +54,7 @@ tags: [commands]
 	db.COLLECTION_NAME.insert(document)
 	```
 	
-	or
-	
+	or:
 	```
 	db.COLLECTION_NAME.save(document)
 	```
@@ -68,7 +65,6 @@ tags: [commands]
 	```
 	
 	or:
-
 	```
 	db.COLLECTION_NAME.find().pretty()
 	```
@@ -84,13 +80,11 @@ tags: [commands]
 	```
 	
 	or to remove one document:
-	
 	```
 	db.COLLECTION_NAME.remove(DELLETION_CRITTERIA, 1)
 	```
 	
 	or to remove all document:
-	
 	```
 	db.COLLECTION_NAME.remove()
 	```

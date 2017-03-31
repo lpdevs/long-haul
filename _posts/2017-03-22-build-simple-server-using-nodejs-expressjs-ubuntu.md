@@ -7,8 +7,7 @@ tags: [http server]
 ---
 
 Today, I am going to talk about how to build a simple http server in ubuntu using Nodejs and Expressjs. 
-If you have not installed Nodejs, please install it or check [this](https://lpdevs.github.io/nodejs/ubuntu/elementary%20os/2017/03/14/installing-nodejs-and-npm-in-linux-from-binaries.html).
-By now, I am assumming that you have installed Nodejs. Let's start now:
+If you have not installed Nodejs, please install it or check [this](https://lpdevs.github.io/nodejs/ubuntu/elementary%20os/2017/03/14/installing-nodejs-and-npm-in-linux-from-binaries.html). By now, I am assumming that you have installed Nodejs. Let's start now:
   
   * Create new project:
     ```js
