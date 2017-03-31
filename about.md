@@ -14,7 +14,8 @@ title: About LP Devs
   </p>
 
   <p>
-  <b>Here are some of all my projects about:</b><br>
+  <b>Here are some of all my projects about:</b>
+    <ul>
       <li>Android applications</li>
         <ul>
         <li><a href='https://play.google.com/store/apps/details?id=com.lampv.calculators'>Smart Calculator Free</a></li>
@@ -26,10 +27,11 @@ title: About LP Devs
         <ul>
         <li><a href='https://lpdevs.herokuapp.com/dictionary'>Vietnamese Dictionary</a></li>
         </ul>
+    </ul>
   </p>
 
   <p>
-  <b>Visit me on:</b><br>
+  <b>Visit me on:</b>
     <ul>
       <li>Website:</li>
         <ul>
