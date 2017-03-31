@@ -11,7 +11,7 @@ title: About LP Devs
   My native language is Vietnamese. Therefore, writing a blog using English is quite confusing me. Although, I decide to use English for this blog. I want to share my experiences to all people in the world. So I will try my best and hope my english skills better soon.
   <br><br>
 
-  Here are some of all my projects about:
+  Here are some of all my projects about: <br>
 
   <b>Android applications</b>
     1.<a href='https://play.google.com/store/apps/details?id=com.lampv.calculators'> Smart Calculator Free </a><br>
@@ -22,7 +22,7 @@ title: About LP Devs
     1.<a href='https://lpdevs.herokuapp.com/dictionary'> Vietnamese Dictionary</a>
   <br><br>
 
-  Visit me on:
+  Visit me on: <br>
 
   <b>Website:</b>
     1.<a href="https://lpdevs.github.io"> LP Devs Blog</a><br>
@@ -34,7 +34,7 @@ title: About LP Devs
   <b>Facebook:</b>
     1.<a href="https://www.facebook.com/lpdevs"> LP Devs Fanpage </a><br>
 
-
+  <br>
   I am going to update this blog more and more. So if you have some questions to ask me, or some ideas to share, feel free to email me.
   <br><br>
 
