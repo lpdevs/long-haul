@@ -7,16 +7,15 @@ tags: [installing, desktop entry]
 ---
 
 I just installed Android Studio 2.3 in my Ubuntu computer. Everything is fine. But there is a little problem that there is no an icon for it.
+
 So today, I want to share with you how I create an desktop entry for an application, such as: Android Studio. 
 
 ### Step 1: Create file <yourfilename>.desktop (androidstudio.desktop)
-
   ```
   sudo nano /usr/share/applications/androidstudio.desktop
   ```
   
 ### Step 2: Write below:
-
   ```
   [Desktop Entry]
   Version=2.3
@@ -35,13 +34,9 @@ So today, I want to share with you how I create an desktop entry for an applicat
   For now, everything is alright.
 
 ### Step 3: (Optional) Set permissions
-
   ```
   sudo chmod 644 /usr/share/applications/androidstudio.desktop
   sudo chown root:root /usr/share/applications/androidstudio.desktop
   ```
   
-It is easy, right? If you have some questions, feel free to ask me!
- 
- Sincere,
- Pham Van Lam
+It is easy, right? If you have some questions, feel free to ask me! <br />LP Devs.

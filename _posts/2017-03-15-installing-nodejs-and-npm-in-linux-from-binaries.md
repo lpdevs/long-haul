@@ -17,25 +17,20 @@ Today, I am going to introduce you how to install Nodejs with Standard Binary Pa
 
   * Download Nodejs from main page, such as [node-v6.10.0-linux-x64.tar.xz](https://nodejs.org/dist/v6.10.0/node-v6.10.0-linux-x64.tar.xz)
   * Open cmd, then move to the folder contains nodejs. Assumming that folder is **Documents**
-  
     ```
     cd Documents
     ```
     
   * Install nodejs binary package in **/usr/local**:
-  
     ```
     tar -C /usr/local --strip-components 1 -xJf node-v6.10.0-linux-x64.tar.xz
     ```
-    
+
   * Check with:
-  
     ```
     node --version
     npm version
     ```
     
- Now, you have installed Nodejs in Linux (Ubuntu) from Standard Binary Packages. If you have some questions, feel free to ask me!
+ Now, you have installed Nodejs in Linux (Ubuntu) from Standard Binary Packages. If you have some questions, feel free to ask me! <br />LP Devs
  
- Sincere,
- Pham Van Lam

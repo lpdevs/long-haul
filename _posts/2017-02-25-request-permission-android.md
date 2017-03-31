@@ -9,15 +9,13 @@ tags: [permissions]
 In android with version >= 23, you need to request some permissions
 in java code. To register some permissions, follow these steps:
 
-  * **Step 1**: Declare variables
-  
+  * **Step 1**: Declare variables  
     ```java
 	private List<String> permissions;
 	private static final int REQUEST_PERMISSION_RESULT = 0xFF;
 	```
 
   * **Step 2**: Implement **CheckPermission()** function
-
     ```java
 	private boolean CheckPermission() {
 		permissions = new ArrayList<String>();
@@ -37,7 +35,6 @@ in java code. To register some permissions, follow these steps:
 	```
 	
   * **Step 3**: Request permissions 
-	
     ```
 	if (!CheckPermission()){
       if (Build.VERSION.SDK_INT >= 23){
@@ -46,6 +43,4 @@ in java code. To register some permissions, follow these steps:
     }
 	```
 	
-If you have some questions, feel free to ask me.
-
-Pham Van Lam.
+That is it. And if you have some questions, feel free to ask me. <br />LP Devs

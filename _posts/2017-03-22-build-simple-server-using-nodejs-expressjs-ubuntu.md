@@ -11,22 +11,19 @@ If you have not installed Nodejs, please install it or check [this](https://lpde
 By now, I am assumming that you have installed Nodejs. Let's start now:
   
   * Create new project:
-  
-    ```
+    ```js
     npm init
     ```
     then just hit Enter...After that **package.json** file is generated. (Notice: Name can no longer contain capital letters).
 
   * Install **express** module: open Terminal, then:
-  
-    ```
+    ```js
     npm install --save express
     ```
     using **--save** to save it as a dependency in the **package.json** file. Then **node_modules** is generated.
     
   * Create a new file: **index.js**, write the code like below:
-    
-    ``` 
+    ```js
     var express = require('express');
 
     var app = express();
@@ -40,8 +37,7 @@ By now, I am assumming that you have installed Nodejs. Let's start now:
     This code will create a server which is bound with **localhost** in port **8080**.
     
   * Start this server:
-  
-    ```
+    ```js
     node index.js
     ```
     If the console displays log as **The server is listening on port: 8080**, then the server is started successfully.
@@ -50,8 +46,7 @@ By now, I am assumming that you have installed Nodejs. Let's start now:
     It is because we are never implementing routing for the server.
     
   * Routing by adding the below in **index.js**:
-  
-    ```
+    ```js
     app.get('/', function(req, res){
 	    res.send('Hello from main page');
     });
@@ -62,8 +57,7 @@ By now, I am assumming that you have installed Nodejs. Let's start now:
       You will receive that message.
     
     * For now, you just can access the server from your computer. Because the server is bound with **localhost**. If you want to access the server from other computers in the same network. You must bind it with your **ip address**. So **index.js** must be modified like below:
-    
-      ``` 
+      ```js
       var express = require('express');
 
       var app = express();
@@ -81,9 +75,7 @@ By now, I am assumming that you have installed Nodejs. Let's start now:
       
       Start the server again, then navigate to [http://<your_ip>:8080. 
       
- OK, it is just simple way to create a server on Ubuntu using Nodejs and Expressjs. If you want to create more complicated server or have some questions, feel free to ask me. I am really happy to help you.
- 
- LP Devs.
+ OK, it is just simple way to create a server on Ubuntu using Nodejs and Expressjs. If you want to create more complicated server or have some questions, feel free to ask me. I am really happy to help you.<br />LP Devs.
   
     
     

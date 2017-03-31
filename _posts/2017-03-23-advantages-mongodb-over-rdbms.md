@@ -27,6 +27,4 @@ tags: [Advantages, MongoDB, RDBMS]
   * Conversion/mapping of application objects to database objects not needed.
   * Use internal memory for storing the working set, enable faster access of data.
   
-MongoDB is really powerful. If you never use it, just give it a try. And if you have some questions to ask, feel free to ask me.
-
-LP Devs.
+MongoDB is really powerful. If you never use it, just give it a try. And if you have some questions to ask, feel free to ask me.<br />LP Devs.
