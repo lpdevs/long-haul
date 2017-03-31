@@ -6,19 +6,11 @@ title: Contact LP Devs
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
-    <p>If you have some questions to ask me, or some ideas to share, feel free to <a href="mailto:lampv606@gmail.com">email me</a>.</p>
-    <p> Or visit me on:</p>
-    <h4>Websites:</h4>
+    <p>If you have some questions to ask me, or some ideas to share, feel free to <a href="mailto:lampv606@gmail.com">email me</a>. Or visit me on:</p>
+    <h4>Other websites:</h4>
       <ul>
-        <li><a href="https://lpdevs.github.io">LP Devs Blog</a></li>
         <li><a href="https://lpdevs.herokuapp.com">LP Devs Herokuapp</a></li>
         <li><a href="https://phamvanlam.com">Pham Van Lam</a> (Vietnamese Only)</li>
-      </ul>
-  
-    <h4>Youtube channels:</h4>
-      <ul>
-        <li><a href="https://www.youtube.com/channel/UCGZVdZxSWmAIDT5AJNCQ6Bw">LP Devs Channel</a></li>
-        <li><a href="https://www.youtube.com/channel/UCGzF0dyN9D5nFS4nNpMm6RA">HD Open source</a></li>
       </ul>
   
     <h4>Facebook fanpages:</h4>
