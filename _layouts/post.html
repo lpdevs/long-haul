@@ -11,12 +11,14 @@ layout: default
   <p class="meta">Posted on {{ page.date | date: '%B %d, %Y' }}</p>
 
   {% include divider.html %}
-
   {{ content }}
 
+  <!-- Share -->
   {% include divider.html %}
+  {% include share.html %}
 
   <!-- Categories, Tags -->
+  {% include divider.html %}
   <p>
   {% if page.categories %}
     Categories: 
@@ -32,9 +34,6 @@ layout: default
     </span>
   {% endif %}
   </p>
-
-  <!-- Share -->
-  {% include share.html}
 
   <!-- POST NAVIGATION -->
   <div class="postNav clearfix">
