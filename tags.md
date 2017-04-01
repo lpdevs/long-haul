@@ -4,13 +4,24 @@ title: Posts by tags
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">Recent Posts</h1>
+  <h1 class="pageTitle">Posts by Tags</h1>
   <ul class="posts noList">
   	{% for tag in site.tags %}
-	  {% assign t = tag | first %}
-	  {% assign posts = tag | last %}
-	  <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
-	{% endfor %}
+		{% assign t = tag | first %}
+		{% assign posts = tag | last %}
+
+		{{ t | downcase }}
+		<ul>
+		{% for post in posts %}
+	  	  {% if post.tags contains t %}
+	  	  <li>
+		    <a href="{{ post.url }}">{{ post.title }}</a>
+		    <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+	  	  </li>
+	  	  {% endif %}
+	    {% endfor %}
+	    </ul>
+    {% endfor %}
   	<!--
     {% for post in paginator.posts %}
       <li>
