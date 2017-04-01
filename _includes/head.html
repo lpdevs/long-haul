@@ -23,6 +23,11 @@
     <meta property="og:site_name" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:locale" content="en_US" />
 
+    <!--Meta tags for twitter-->
+    <meta name="twitter:site" content="@{{site.social.twitter}}" />
+    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+
+
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="{{ "/assets/img/lpdevs16.ico" | prepend: site.baseurl }}" />
 
