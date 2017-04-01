@@ -9,7 +9,7 @@ permalink: /tags/static-library
   <h1 class="pageTitle">{{page.title}}</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
-      {% if post.tags contains site.tag %}
+      {% if post.tags contains page.tag %}
   		<li>
 	        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
 	        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
