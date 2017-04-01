@@ -2,8 +2,8 @@
 layout: post
 title:  "Request permissions by java in Android version 23+"
 date:   2017-02-25 17:30:00 +0700
-categories: [java, android]
-tags: [permissions]
+categories: [Java, Android]
+tags: [Permissions]
 ---
 
 In android with version >= 23, you need to request some permissions

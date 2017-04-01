@@ -3,7 +3,7 @@ layout: post
 title:  "Create desktop entry for an application in Ubuntu"
 date:   2017-03-17 21:00:00 +0700
 categories: [Ubuntu, Android Studio]
-tags: [installing, desktop entry]
+tags: [Installing, Desktop entry]
 ---
 
 I just installed Android Studio 2.3 in my Ubuntu computer. Everything is fine. But there is a little problem that there is no an icon for it.

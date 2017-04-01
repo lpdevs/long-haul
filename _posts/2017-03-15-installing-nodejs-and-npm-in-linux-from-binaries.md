@@ -2,8 +2,8 @@
 layout: post
 title:  "Installing nodejs and npm in Linux from binaries"
 date:   2017-03-15 01:05:00 +0700
-categories: [nodejs, Ubuntu, Elementary OS]
-tags: [installing, binaries]
+categories: [Nodejs, Ubuntu, Elementary OS]
+tags: [Installing, Binaries]
 ---
 
 There are few ways to install nodejs in Linux. You can install it with:

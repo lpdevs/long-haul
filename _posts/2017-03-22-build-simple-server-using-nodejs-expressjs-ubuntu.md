@@ -3,7 +3,7 @@ layout: post
 title:  "Build a simple http server in Ubuntu using Nodejs and ExpressJs"
 date:   2017-03-22 23:00:00 +0700
 categories: [Ubuntu, Nodejs, Expressjs]
-tags: [http server]
+tags: [Http server, Routing]
 ---
 
 Today, I am going to talk about how to build a simple http server in ubuntu using Nodejs and Expressjs. 
