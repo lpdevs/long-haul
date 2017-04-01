@@ -2,7 +2,7 @@
 layout: default
 tag: static-library
 title: Static library
-permalink: /category/static-library
+permalink: /tags/static-library
 ---
 
 <div class="home" id="home">
