@@ -8,7 +8,7 @@ permalink: /tags/static-library
 <div class="home" id="home">
   <h1 class="pageTitle">{{page.title}}</h1>
   <ul class="posts noList">
-    {% for post in paginator.posts %}
+    {% for post in posts %}
      <!--- {% if post.tags contains page.tag %} -->
   		<li>
 	        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
