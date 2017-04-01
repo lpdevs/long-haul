@@ -2,7 +2,7 @@
 layout: default
 tag: MongoDB
 title: MongoDB
-permalink: /tags/mongodb
+permalink: /tag/mongodb
 ---
 
 {% include post_by_tag.html %}

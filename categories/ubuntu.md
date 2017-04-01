@@ -2,7 +2,7 @@
 layout: default
 category: Ubuntu
 title: Ubuntu
-permalink: /categories/ubuntu
+permalink: /category/ubuntu
 ---
 
 {% include post_by_category.html %}

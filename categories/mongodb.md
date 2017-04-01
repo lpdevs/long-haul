@@ -2,7 +2,7 @@
 layout: default
 category: MongoDB
 title: MongoDB
-permalink: /categories/mongodb
+permalink: /category/mongodb
 ---
 
 {% include post_by_category.html %}

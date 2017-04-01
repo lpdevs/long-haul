@@ -2,7 +2,7 @@
 layout: default
 category: Cpp
 title: Cpp
-permalink: /categories/cpp
+permalink: /category/cpp
 ---
 
 {% include post_by_category.html %}

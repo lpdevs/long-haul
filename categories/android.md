@@ -2,7 +2,7 @@
 layout: default
 category: Android
 title: Android
-permalink: /categories/android
+permalink: /category/android
 ---
 
 {% include post_by_category.html %}

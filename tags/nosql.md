@@ -2,7 +2,7 @@
 layout: default
 tag: NoSQL
 title: NoSQL
-permalink: /tags/nosql
+permalink: /tag/nosql
 ---
 
 {% include post_by_tag.html %}

@@ -2,7 +2,7 @@
 layout: default
 category: Nodejs
 title: Nodejs
-permalink: /categories/nodejs
+permalink: /category/nodejs
 ---
 
 {% include post_by_category.html %}

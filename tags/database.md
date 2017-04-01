@@ -2,7 +2,7 @@
 layout: default
 tag: Database
 title: Database
-permalink: /tags/database
+permalink: /tag/database
 ---
 
 {% include post_by_tag.html %}

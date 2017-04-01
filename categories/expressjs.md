@@ -2,7 +2,7 @@
 layout: default
 category: Expressjs
 title: Expressjs
-permalink: /categories/expressjs
+permalink: /category/expressjs
 ---
 
 {% include post_by_category.html %}
