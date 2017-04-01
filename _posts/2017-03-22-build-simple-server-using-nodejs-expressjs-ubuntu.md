@@ -77,7 +77,7 @@ If you have not installed Nodejs, please install it or check [this](https://lpde
       });
       ```
       
-    * Start the server again, then navigate to [http://<your_ip>:8080](http://localhost:8080). 
+    * Start the server again, then navigate to http://<your_ip>:8080. 
       
  OK, it is just simple way to create a server on Ubuntu using Nodejs and Expressjs. If you want to create more complicated server or have some questions, feel free to ask me. I am really happy to help you.<br />LP Devs.
   
