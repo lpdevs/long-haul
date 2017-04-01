@@ -9,6 +9,6 @@ title: Tags
 		{% assign t = tag | first %}
 		{% assign posts = tag | last %}
 
-		<a href="/tag/{{t | downcase | replace:" ","-" }}" class="btn btn-sm btn-default">{{ t }}</a>
+		<a href="/tag/{{t | downcase | replace:" ","-" }}" class="btn">{{ t }}</a>
     {% endfor %}
 </div>

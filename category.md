@@ -9,6 +9,6 @@ title: Categories
 		{% assign t = category | first %}
 		{% assign posts = category | last %}
 
-		<a href="/category/{{t | downcase | replace:" ","-" }}" class="btn btn-sm btn-default">{{ t }}</a>
+		<a href="/category/{{t | downcase | replace:" ","-" }}" class="btn">{{ t }}</a>
     {% endfor %}
 </div>

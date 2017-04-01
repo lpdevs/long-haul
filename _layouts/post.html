@@ -23,14 +23,14 @@ layout: default
   {% if page.categories %}
     Categories: 
     <span class="categories">
-      {% for category in page.categories %}<a href="/category/{{category | downcase | replace:" ","-" }}">{{ category }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}
+      {% for category in page.categories %}<a class="btn" href="/category/{{category | downcase | replace:" ","-" }}">{{ category }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}
     </span>
   {% endif %}
 
   {% if page.tags %}
     <br>Tags: 
     <span class="tags">
-      {% for tag in page.tags %}<a href="/tag/{{tag | downcase | replace:" ","-" }}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}
+      {% for tag in page.tags %}<a class="btn" href="/tag/{{tag | downcase | replace:" ","-" }}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}
     </span>
   {% endif %}
   </p>
