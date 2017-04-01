@@ -2,7 +2,7 @@
 layout: post
 title:  "Some commands for MongoDB"
 date:   2017-03-23 20:30:00 +0700
-categories: [MongoDB, NoSQL]
+categories: [MongoDB]
 tags: [Command line, Database, Query database] 
 ---
 

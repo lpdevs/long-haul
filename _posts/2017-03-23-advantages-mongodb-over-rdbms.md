@@ -2,7 +2,7 @@
 layout: post
 title:  "Advantages of MongoDB over RDBMS"
 date:   2017-03-23 21:15:00 +0700
-categories: [MongoDB, NoSQL]
+categories: [MongoDB]
 tags: [MongoDB, RDBMS, NoSQL, Database]
 ---
 
