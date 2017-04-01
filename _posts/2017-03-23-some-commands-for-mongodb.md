@@ -2,8 +2,8 @@
 layout: post
 title:  "Some commands for MongoDB"
 date:   2017-03-23 20:30:00 +0700
-categories: [mongoDB]
-tags: [commands] 
+categories: [mongoDB, NoSQL]
+tags: [commands, database, query database] 
 ---
 
 #### MongoDB Commands
