@@ -3,7 +3,7 @@ layout: post
 title:  "How to use git with some basic commands"
 date:   2017-03-31 20:30:00 +0700
 categories: [Git, Github]
-tags: [Commands] 
+tags: [Command line] 
 ---
 
 #### Basic commands

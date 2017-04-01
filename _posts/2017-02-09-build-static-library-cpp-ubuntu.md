@@ -3,7 +3,7 @@ layout: post
 title:  "Build static library cpp in Ubuntu"
 date:   2017-02-09 20:30:00 +0700
 categories: [Cpp, Ubuntu]
-tags: [Static library, Make] 
+tags: [Static library, Makefile] 
 ---
 
 Library is very important when you build some kind of big systems. Some advantages of library are:
