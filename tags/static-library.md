@@ -6,7 +6,7 @@ permalink: /tags/static-library
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">{{site.title}}</h1>
+  <h1 class="pageTitle">{{page.title}}</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
       {% if post.tags contains site.tag %}
