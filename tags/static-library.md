@@ -1,6 +1,6 @@
 ---
 layout: default
-tag: static-library
+tag: Static library
 title: Static library
 permalink: /tags/static-library
 ---
