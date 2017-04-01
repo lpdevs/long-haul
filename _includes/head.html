@@ -18,8 +18,7 @@
           {% else %}
             {{ site.description }}
           {% endif %}">
-    <meta property="og:url"
-        content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:site_name" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:locale" content="en_US" />
 
