@@ -18,6 +18,10 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
+ - title: Tags
+   url: /tags
+ - title: Categories
+   url: /categories 
 
 social:
    github: lpdevs
