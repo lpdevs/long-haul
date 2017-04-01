@@ -19,9 +19,7 @@ navigation:
  - title: Contact
    url: /contact
  - title: Tags
-   url: /tags
- - title: Categories
-   url: /categories 
+   url: /tags 
 
 social:
    github: lpdevs
