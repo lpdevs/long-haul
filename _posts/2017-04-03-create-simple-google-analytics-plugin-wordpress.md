@@ -16,6 +16,7 @@ tags: [Plugin Wordpress, Google Analytics]
 ### Code for Plugin
   
   * Code:
+  
     ```php
     <?php
     /**
@@ -38,6 +39,7 @@ tags: [Plugin Wordpress, Google Analytics]
     }
     add_action( 'wp_head', 'wp_lpdevs_google_analytics');
     ```
+    
   * Replace **Google-Analytics-ID** with yours, such as: UA-96583605-1
   
 ### How to use
