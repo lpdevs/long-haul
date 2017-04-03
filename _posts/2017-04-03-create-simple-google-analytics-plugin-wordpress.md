@@ -18,12 +18,10 @@ tags: [Plugin Wordpress, Google Analytics]
   * Code:
     ```php
       <?php
-      /**
-      * Plugin Name: Simple Google Analytics Plugin for Wordpress
-      * Description: Adds a Google analytics tracking code to the <head> of your theme, by hooking to wp_head.
-      * Author: LP Devs
-      * Version: 1.0
-      */
+      // Plugin Name: Simple Google Analytics Plugin for Wordpress
+      // Description: Adds a Google analytics tracking code to the <head> of your theme, by hooking to wp_head.
+      // Author: LP Devs
+      // Version: 1.0
       function wp_lpdevs_google_analytics() {
         ?>
 	  <script>
