@@ -6,7 +6,7 @@ categories: [Wordpress]
 tags: [Plugin Wordpress, Google Analytics] 
 ---
 
-### Simple Google Analytics Plugin for Wordpress
+### Create Google Analytics account overview
 
   * Google Analytics Solutions offer free and enterprise analytics tools to measure website, app, digital 
   and offline data to gain customer insights.
