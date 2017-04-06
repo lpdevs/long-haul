@@ -25,6 +25,7 @@ title: About LP Devs
   <h4>My web applications:</h4>
   <ul>
     <li><a href='https://lpdevs.herokuapp.com/dictionary'>Vietnamese Dictionary</a></li>
+    <li><a href='https://github.com/lpdevs/select-translate-english-vietnamese-chrome-extension/raw/master/packedExtension/select-translate-english-vietnamese-chrome-extension.crx'> Select to translate English to Vietnamese</a> (Chrome Extension)</li>
   </ul>
 
   <h4>My websites:</h4>
