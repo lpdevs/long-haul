@@ -27,6 +27,7 @@ title: About LP Devs
     <li><a href='https://lpdevs.herokuapp.com/dictionary'>Vietnamese Dictionary</a></li>
     <li><a href='https://github.com/lpdevs/select-translate-english-vietnamese-chrome-extension/raw/master/packedExtension/select-translate-english-vietnamese-chrome-extension.crx'> Select to translate English to Vietnamese</a> (Chrome Extension)</li>
     <li><a href='https://lpdevs.herokuapp.com/calendar'>Calendar</a></li>
+     <li><a href='https://lpdevs.herokuapp.com/pick-color'>Pick color (from image)</a></li>
   </ul>
 
   <h4>My websites:</h4>
